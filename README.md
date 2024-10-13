@@ -14,7 +14,7 @@
 * Jupyter Notebook/Google Colab
 
 
-For detailed information, refer to the ppt attached in this repository.
+For detailed information, refer to the ppt [here](https://docs.google.com/presentation/d/1yTNIvvSxFKwn7JZxlQmZ3ePZoRUBfYd1/edit?usp=sharing&ouid=105726340523767317346&rtpof=true&sd=true).
 
 
 ### Contact
