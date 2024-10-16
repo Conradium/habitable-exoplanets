@@ -1,6 +1,8 @@
 ## habitable-exoplanets
 **Habitable Exoplanets** is a project to find whether stella spectra rating is a corellator of habitable exoplanets.
 
+###**NEW CHANGES HAD BEEN MADE, BUT THE PPT IS NOT UPDATED YET**
+
 ### Features
 
 * **Data Cleaning:** The data used is already cleaned and updated.
